@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "angular-1-30ae7": {
+      "hosting": {
+        "intprojem": [
+          "angular-1-30ae7"
+        ]
+      }
+    },
+    "final-e26ad": {
+      "hosting": {
+        "intprojem": [
+          "final-e26ad"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "final-e26ad"
+  }
+}
